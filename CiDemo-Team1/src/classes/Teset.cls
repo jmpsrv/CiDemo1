@@ -14,6 +14,8 @@ public with sharing class Teset {
     public string test6{get;set;}
 
     public string test7{get;set;}
+
+    public string test8{get;set;}
         
     public Teset() {
     	
